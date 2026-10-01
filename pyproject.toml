@@ -1,0 +1,29 @@
+[project]
+name = "projeto-data-viz-pixar"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "AmiltonMn", email = "'pedrogon3322@gmail.com'" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "nbformat>=5.11.1",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "plotly>=7.1.0",
+    "seaborn>=0.13.2",
+]
+
+[project.scripts]
+projeto-data-viz-pixar = "projeto_data_viz_pixar:main"
+
+[build-system]
+requires = ["uv_build>=0.12.21,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]
