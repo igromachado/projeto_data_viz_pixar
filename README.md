@@ -1,7 +1,7 @@
 # projeto_data_viz_pixar
 
 ## EQUIPE MARCH: 
-Erich Natal (@erichnatal), Igor Machado (@igromachado), Pedro Marinho (@PedroGM56), Philippe Mugnaini (@PhillipeMugnaini) e Thiago Vilhena (@Thiago-soulz)
+Erich Natal (@erichnatal), Igor Machado (@igromachado), Pedro Marinho (@PedroGM56), Phillipe Mugnaini (@PhillipeMugnaini) e Thiago Vilhena (@Thiago-soulz)
 
 ## PERGUNTAS:
 1 - Como as avaliações e a bilheteria dos filmes da Pixar variaram ao longo dos anos?<br>
