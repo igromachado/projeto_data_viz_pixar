@@ -95,8 +95,8 @@ docs/
 
 ## Documentação e apresentação
 
-- [Documentação técnica (PDF)](src/docs/DOCUMENTAÇÃO.pdf)
-- [Apresentação final (PDF)](src/docs/apresentacao.pdf)
+- [Documentação técnica (PDF)](src/projeto_data_viz_pixar/docs/DOCUMENTAÇÃO.pdf)
+- [Apresentação final (PDF)](src/projeto_data_viz_pixar/docs/apresentacao.pdf)
 
 
 
