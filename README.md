@@ -95,8 +95,8 @@ docs/
 
 ## Documentação e apresentação
 
-- [Documentação técnica (PDF)](docs/DOCUMENTAÇÃO.pdf)
-- [Apresentação final (PDF)](docs/apresentacao.pdf)
+- [Documentação técnica (PDF)](src/docs/DOCUMENTAÇÃO.pdf)
+- [Apresentação final (PDF)](src/docs/apresentacao.pdf)
 
 
 
